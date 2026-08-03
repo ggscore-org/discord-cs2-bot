@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://ggscore.net"><img src="docs/banner.jpg" alt="GGScore CS2 Discord Bot — match results via REST API" width="800" /></a>
+</p>
+
+<p align="center">
+  <a href="https://ggscore.net"><img src="docs/icon.png" alt="GGScore" width="64" height="64" /></a>
+</p>
+
 # CS2 Discord Bot — Match Results via REST API (no scraping)
 
 Minimal **Discord.js** bot that posts recent **Counter-Strike 2** match scores using the **[GGScore CS2 Match Data API](https://ggscore.net)** (`GET /api/v2/matches` + `X-API-Key`).
