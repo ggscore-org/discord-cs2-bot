@@ -24,6 +24,7 @@ Use this if you want a **CS2 Discord bot** for `/results` without maintaining HT
 | Full Discord guide | https://ggscore.net/blog/cs2-discord-bot-api-guide |
 | CS2 API overview | https://ggscore.net/guides/cs2-match-data-api |
 | Telegram twin | [telegram-cs2-bot](https://github.com/ggscore-org/telegram-cs2-bot) |
+| Python SDK | [python-client](https://github.com/ggscore-org/python-client) |
 | Org | [ggscore-org](https://github.com/ggscore-org) |
 
 ## Setup
