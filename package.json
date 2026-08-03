@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Minimal Discord bot for CS2 match results via GGScore API",
+  "description": "CS2 Discord bot — match results via GGScore REST API (no scraping). Slash /results for Counter-Strike 2 scores.",
   "engines": {
     "node": ">=20"
   },
